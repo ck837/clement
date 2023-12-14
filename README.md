@@ -15,8 +15,8 @@
 ![2](./images/2.png)
 
 [自动上移标题的输入框](https://github.com/ck837/clement/blob/main/%E8%87%AA%E5%8A%A8%E4%B8%8A%E7%A7%BB%E6%A0%87%E9%A2%98%E7%9A%84%E8%BE%93%E5%85%A5%E6%A1%86.html)
-![3-1](./images/1-1.png)
-![3-2](./images/1-2.png)
+![3-1](./images/3-1.png)
+![3-2](./images/3-2.png)
 
 
 技巧：
